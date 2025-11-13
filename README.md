@@ -56,9 +56,11 @@ Delves deeper into profitability patterns:
 
 ## 📊 Key Insights
 1. **Consumer customers** had the highest profit margins despite lower total sales.  
-2. **Corporate segment** generated the most sales but with lower profit efficiency.  
-3. **Heavy discounts** directly reduced profit margins across several product categories.  
-4. **East region** customers recorded higher average order values, suggesting stronger buying power.  
+2. **Corporate segment** generated the most sales but with lower profit efficiency.   
+3. **East region** customers recorded higher average order values, suggesting stronger buying power.
+4. **Central region** customers records the highest spending per customer.
+5. **South region** records the lowest spending per customer.
+6. **Corporate segment** has negative impact on the total profit.
 
 ---
 
